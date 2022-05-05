@@ -1,1 +1,6 @@
-repo
+To Build it:
+
+./autogen.sh
+make
+
+get your files in bin dir
