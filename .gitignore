@@ -1,4 +1,4 @@
-/bin
+#DONOTEXCLUDETHISFORKERNELBUILD/bin
 /build
 /toolchain
 /reduced-gnu-efi
